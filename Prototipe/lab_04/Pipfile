@@ -4,7 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+<<<<<<< HEAD
 jikanpy-v4 = "*"
+=======
+>>>>>>> 93d3be39fb8076211e344d485208feee7efc8c25
 
 [dev-packages]
 
